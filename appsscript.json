@@ -1,0 +1,18 @@
+{
+  "timeZone": "Europe/Paris",
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "FirestoreApp",
+        "libraryId": "1VUSl4b1r1eoNcRWotZM3e87ygkxvXltOgyDZhixqncz9lQ3MjfT1iKFw",
+        "version": "33"
+      }
+    ]
+  },
+  "webapp": {
+    "executeAs": "USER_ACCESSING",
+    "access": "ANYONE"
+  }
+}
